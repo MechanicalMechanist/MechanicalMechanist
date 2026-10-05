@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MechanicalMechanist/MechanicalMechanist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/736x/f6/bd/0c/f6bd0cf30fac98fc9bb5e35776242a11.jpg" width="100%" alt="Closure - Rhodes Island">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# CLOSURE
+
+### Rhodes Island Chief Engineer
+
+`ENGINEERING` · `SYSTEMS` · `SECURITY` · `???`
+
+*"If it works, don't touch it. If it doesn't work, give it to me."*
+
+</div>
+
+---
+
+```text
+RHODES ISLAND INTERNAL NETWORK
+──────────────────────────────────────────────
+
+USER        Closure
+POSITION    Chief Engineer
+LOCATION    Rhodes Island
+STATUS      Online
+ACCESS      Administrator
+
+> authentication successful.
+> welcome back, Closure.
+```
